@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="ClickableViewAccessibility">
+        <ignore path="src/cs315/kramercanfield/finalproject/GLSceneActivity.java" />
+    </issue>
+</lint>
